@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-restfulltest", "api-restfulltest\api-restfulltest.csproj", "{1BDFDFF2-8560-49C0-B6DE-73DA4878D273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDFDFF2-8560-49C0-B6DE-73DA4878D273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDFDFF2-8560-49C0-B6DE-73DA4878D273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDFDFF2-8560-49C0-B6DE-73DA4878D273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDFDFF2-8560-49C0-B6DE-73DA4878D273}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19C0382F-0E0D-4820-A1DE-8BB7E5BCA28A}
+	EndGlobalSection
+EndGlobal
